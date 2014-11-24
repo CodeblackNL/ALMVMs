@@ -1,5 +1,5 @@
 ﻿# VM details
-$vmName = "vs13almvm"
+$vmName = "tfsscomvm"
 $vmUrl = "http://aka.ms/$vmName"
 Write-Host "Downloading ALM VM '$vmName' from '$vmUrl'" -ForegroundColor Yellow
 
