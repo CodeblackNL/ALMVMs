@@ -16,7 +16,7 @@ Each VM, and accompanying files for hands-on-labs and demo's, can be downloaded 
 
 Each command will download the script as a string, and then executes that string as a script. The script first downloads the web-page containing the url's. Then takes the url's from the page and splits them into an array. Finally, all url's are downloaded into a VM-specific folder in the current user's downloads-folder. The script for each VM is basically the same, only the url for the initial web-page and the folder in Downloads are different.
 
-For more information read [this blog-post](http://blog.codeblack.nl/post/download-the-alm-vm-s-without-a-download-manager). If you think there's a problem with the scripts, or I'm missing additions/updates on the VM's, let me know on my blog or create an issue here.
+For more information read [this blog-post](http://blog.codeblack.nl/post/download-the-alm-vm-s-without-a-download-manager.aspx). If you think there's a problem with the scripts, or I'm missing additions/updates on the VM's, let me know on my blog or create an issue here.
 
 Feel free to download the scripts and modify them as you wish, or fork this repo. If you do, don't forget to change the url's in the commands.
 
